@@ -1,1 +1,17 @@
-# eugeneyan
+# About
+
+My name is Akilesh Kannan. I’m currently pursuing a Dual Degree in Electrical Engineering at IIT Madras. My interests lie in Signal Processing, Analog and Digital Circuit design. I also dabble a bit in cryptography and security.
+
+Here’s somethings you should definitely know about me:
+
+- vim + bash is ♥︎
+- open-source everything!
+- Linkin Park and Panic! At The Disco are names that spark up my eyes anytime of the day
+- no joke is lame
+- i love riced desktops
+
+Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so that I can buy a custom domain sometime in the future.
+
+I’m also a proud Chennaiite :)
+
+*Web*: https://aklsh.github.io
