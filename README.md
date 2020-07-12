@@ -13,5 +13,5 @@ Here’s somethings you should definitely know about me:
 Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so that I can buy a custom domain sometime in the future.  
 I’m also a proud Chennaiite :)  
 
-*Web*: https://aklsh.github.io
-*Email*: [reach me here](https://aklsh.github.io/contact-me)
+🌐: https://aklsh.github.io  
+📮: [reach me here](https://aklsh.github.io/contact-me)
