@@ -1,6 +1,7 @@
 # About
 
 My name is Akilesh Kannan. I’m currently pursuing a Dual Degree in Electrical Engineering at IIT Madras. My interests lie in Signal Processing, Analog and Digital Circuit design. I also dabble a bit in cryptography and security.  
+
 Here’s somethings you should definitely know about me:
 
 - vim is ♥︎
@@ -11,4 +12,6 @@ Here’s somethings you should definitely know about me:
 
 Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so that I can buy a custom domain sometime in the future.  
 I’m also a proud Chennaiite :)  
+
 *Web*: https://aklsh.github.io
+*Email*: [reach me here](https://aklsh.github.io/contact-me)
