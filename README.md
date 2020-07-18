@@ -11,7 +11,8 @@ Here’s somethings you should definitely know about me:
 - [LaTeX >> Word](https://www.facebook.com/groups/763873400640518)
 
 Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so that I can buy a custom domain sometime in the future.  
-I’m also a proud Chennaiite :)  
+
+*I’m also a proud Chennaiite :)*  
 
 🌐: https://aklsh.github.io  
 📮: [reach me here](https://aklsh.github.io/contact-me)
