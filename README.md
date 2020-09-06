@@ -1,6 +1,6 @@
 # About
 
-My name is Akilesh Kannan. I’m currently pursuing a Dual Degree in Electrical Engineering at IIT Madras. My interests lie in Signal Processing, Analog and Digital Circuit design (not in that order though). I also dabble a bit in cryptography and security.  
+My name is Akilesh Kannan. I’m currently pursuing a Dual Degree in Electrical Engineering at IIT Madras. My interests lie in Analog and Digital Circuit design (not in that order though). I also dabble a bit in cryptography and security.  
 
 Here’s somethings you should definitely know about me:
 
