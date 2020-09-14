@@ -1,6 +1,6 @@
 # About
 
-My name is Akilesh Kannan. I’m currently pursuing a Dual Degree in Electrical Engineering at IIT Madras. My interests lie in Analog and Digital Circuit design. I also dabble a bit in cryptography and security. Huge supporter of GNU/Linux systems and open-source software.  
+My name is Akilesh Kannan. I’m currently pursuing a Dual Degree in Electrical Engineering at IIT Madras. My interests lie in Computer Architecture and Analog, Digital Circuit design. I also dabble a bit in cryptography and security. Huge supporter of GNU/Linux systems and open-source software.  
 
 Here’s somethings you should definitely know about me:
 
