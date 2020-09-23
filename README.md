@@ -15,4 +15,4 @@ Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so 
 *I’m also a proud Chennaiite :)*  
 
 🌐: https://aklsh.github.io  
-📮: [reach me here](https://aklsh.github.io/contact-me)
+📮: aklsh [at] tuta [dot] io
