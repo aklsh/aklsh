@@ -1,7 +1,7 @@
 # About
 
-My name is Akilesh Kannan and I like to flip bits. My interests lie in Analog Circuit design and Comp Arch/Org.
-I am also a huge supporter of GNU/Linux systems and Open-Source Software.
+My name is Akilesh Kannan and I like to flip bits. My interests lie in Analog Circuit design, Comp Arch/Org and FPGA-based solutions.
+I am a huge supporter of GNU/Linux systems and Open-Source Software.
 
 Here's somethings you should def know about me:
 
