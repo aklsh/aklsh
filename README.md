@@ -13,5 +13,5 @@ Here's somethings you should def know about me:
 Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so
 that I can buy a custom domain sometime in the future.
 
-mail: [username] [at] tuta [dot] io  
-web: https://aklsh.now.sh
+_mail_: [username] [at] tuta [dot] io  
+_web_: https://aklsh.now.sh
