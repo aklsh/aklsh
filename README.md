@@ -1,18 +1,17 @@
 # About
 
-My name is Akilesh Kannan. I’m currently pursuing a Dual Degree in Electrical Engineering at IIT Madras. My interests lie in Computer Architecture and Analog, Digital Circuit design. I also dabble a bit in cryptography and security. Huge supporter of GNU/Linux systems and open-source software.  
+My name is Akilesh Kannan and I like to flip bits. My interests lie in Analog Circuit design and Comp Arch/Org.
+I am also a huge supporter of GNU/Linux systems and Open-Source Software.
 
-Here’s somethings you should definitely know about me:
+Here's somethings you should def know about me:
 
-- vim is ♥︎
-- open-source everything!
-- Linkin Park and Panic! At The Disco are names that spark up my eyes anytime of the day
-- i love riced desktops
-- [LaTeX >> Word](https://www.facebook.com/groups/763873400640518)
+1. Vim is ❤
+2. Open-source everything!
+3. [Linkin Park](https://www.linkinpark.com/), [Panic! At The Disco](https://panicatthedisco.com/) are my favorite music artists.
+4. I [rice](https://github.com/aklsh/dots) my configs in my free time.
 
-Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so that I can buy a custom domain sometime in the future.  
+Not that I need it, but I do have [Liberapay](https://liberapay.com/aklsh/), so
+that I can buy a custom domain sometime in the future.
 
-*I’m also a proud Chennaiite :)*  
-
-🌐: https://aklsh.github.io  
-📮: [username] [at] tuta [dot] io
+mail: [username] [at] tuta [dot] io  
+web: https://aklsh.now.sh
