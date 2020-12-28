@@ -11,8 +11,7 @@ Here's somethings you should def know about me:
 3. Linkin Park, Panic! At The Disco are my favorite music artists.
 4. I rice my configs in my free time.
 
-Not that I need it, but I do have Liberapay, so
-that I can buy a custom domain sometime in the future.
+Not that I need it, but I do have Liberapay, so that I can buy a custom domain sometime in the future.
 
-mail: [username] [at] tuta [dot] io  
+mail: [username] [at] tuta [dot] io
 web: https://aklsh.now.sh
