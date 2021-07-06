@@ -14,4 +14,4 @@ Here's somethings you should def know about me:
 Not that I need it, but I do have Liberapay, so that I can buy a custom domain sometime in the future.
 
 mail: $(whoami) [at] tuta [dot] io
-web: https://aklsh.now.sh
+web: https://www.aklsh.tech
