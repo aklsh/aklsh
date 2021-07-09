@@ -15,5 +15,5 @@ Here's somethings you should def know about me:
 
 Not that I need it, but I do have Liberapay, <s>so that I can buy a custom domain sometime in the future.</s> so that I can keep the custom domain xD - it would certainly help with domain and hosting costs.
 
-mail: $(whoami) [at] tuta [dot] io  
-web: www[dot]aklsh[dot]tech
+**mail:** $(whoami) [at] tuta [dot] io  
+**web:** www[dot]aklsh[dot]tech
