@@ -1,0 +1,27 @@
+name: generate animation
+
+on:
+  schedule:
+    - cron: "0 22 * * *" # every 6 hours
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+
+    steps:
+      # generates a snake game from a github user <github_user_name> contributions graph, output a svg animation at <svg_out_path>
+      - name: generate
+        uses: Platane/snk@master
+        with:
+          github_user_name: aklsh
+          svg_out_path: files/github-contribution-grid-snake.svg
+
+      # the content will be available at https://raw.githubusercontent.com/<github_user>/<repository>/<target_branch>/<file> , or as github page
+      - name: push
+        uses: crazy-max/ghaction-github-pages@v2.5.0
+        with:
+          target_branch: output
+          build_dir: files
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
