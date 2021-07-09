@@ -1,10 +1,11 @@
 About
 -----
 
-![contribution-graph-snake](https://raw.githubusercontent.com/aklsh/aklsh/output/github-contribution-grid-snake.svg)
+![contribution-graph-snake](https://raw.githubusercontent.com/aklsh/aklsh/output/github-contribution-grid-snake.svg)  
+_Generated with [Platane/snk](https://github.com/Platane/snk)_
 
-My name is Akilesh Kannan and I like to flip bits xD. My interests lie in Analog/RF Circuit design and FPGA-based designs.
-I am a huge supporter of GNU/Linux systems and Open-Source Software.
+My name is Akilesh Kannan and I like to flip bits xD. My interests lie in Circuit design and FPGA-based solutions.
+I am also huge supporter of GNU/Linux systems and Open-Source Software _and Hardware_.
 
 Here's somethings you should def know about me:
 
