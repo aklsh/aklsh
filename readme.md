@@ -4,7 +4,7 @@ About
 ![contribution-graph-snake](https://raw.githubusercontent.com/aklsh/aklsh/output/github-contribution-grid-snake.svg)  
 _Generated with [Platane/snk](https://github.com/Platane/snk)_
 
-My name is Akilesh Kannan, an EE undergrad at [IIT Madras](https://iitm.ac.in). My interests lie in Circuit design, FPGA-based solutions and working on the Hardware/Software interface.
+My name is Akilesh Kannan, an EE undergrad at IIT Madras. My interests lie in Circuit design, FPGA-based solutions and working on the Hardware/Software interface.
 I am also a huge supporter of GNU/Linux systems and Open-Source Software _and Hardware_.
 
 Here's somethings you should definitely know about me:
