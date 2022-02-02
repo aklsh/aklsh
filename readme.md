@@ -13,7 +13,7 @@ Here's somethings you should definitely know about me:
 3. Linkin Park, Panic! At The Disco are my favorite music artists.
 4. I rice my configs in my free time. And sometimes put them on r/unixporn :^)
 
-Not that I need it, but I do have Liberapay, <s>so that I can buy a custom domain sometime in the future.</s> so that I can keep the custom domain xD - it would certainly help with domain and hosting costs.
+Not that I need it, but I do have Liberapay and Ko-fi, which will greatly help in domain and hosting costs.
 
-**mail:** $(whoami) [at] tuta [dot] io  
-**web:** www [dot] $(whoami) [dot] tech
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1AAMDT)
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/aklsh/donate)
