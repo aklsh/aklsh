@@ -2,7 +2,7 @@ name: generate animation
 
 on:
   schedule:
-    - cron: "0 22 * * *" # every 6 hours
+    - cron: "0 22 * * *" # everyday at 10pm
   workflow_dispatch:
 
 jobs:
