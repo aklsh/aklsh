@@ -16,4 +16,4 @@ Here's somethings you should definitely know about me:
 Not that I need it, but I do have Liberapay and Ko-fi, which will greatly help in domain and hosting costs.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/P5P1AAMDT)
-[![liberapay](liberapay.svg)](https://liberapay.com/aklsh/donate)
+[![liberapay](https://liberapay.com/assets/widgets/donate.svg)](https://liberapay.com/aklsh/donate)
