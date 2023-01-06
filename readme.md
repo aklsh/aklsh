@@ -14,5 +14,3 @@ Here's somethings that you can talk to me about:
 4. Ricing. I sometimes post my rices on r/unixporn.
 5. Gaming. Console >> PC gaming. There's just something about a controller with a joystick.
 6. Motorsport. I keep up with F1,2,3,E and am an avid fan of Scuderia Ferrari.
-
-Not that I need it, but I do have Liberapay and Ko-fi, which will greatly help in domain and hosting costs.
