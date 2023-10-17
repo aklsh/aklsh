@@ -2,8 +2,8 @@ About
 -----
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aklsh/aklsh/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aklsh/aklsh/output/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aklsh/aklsh/output/github-contribution-snake-grid-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aklsh/aklsh/output/github-contribution-snake-grid.svg" />
   <img alt="contribution-graph-snake" src="https://raw.githubusercontent.com/aklsh/aklsh/output/github-snake.svg" />
 </picture>
 
