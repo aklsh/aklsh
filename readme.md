@@ -1,7 +1,12 @@
 About
 -----
 
-![contribution-graph-snake](https://raw.githubusercontent.com/aklsh/aklsh/output/github-contribution-grid-snake.svg)  
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aklsh/aklsh/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aklsh/aklsh/output/github-snake.svg" />
+  <img alt="contribution-graph-snake" src="https://raw.githubusercontent.com/aklsh/aklsh/output/github-snake.svg" />
+</picture>
+
 _<sub><sup>Generated with [Platane/snk](https://github.com/Platane/snk)</sup></sub>_
 
 My name is Akilesh Kannan. You'll usually find me on the internet as `aklsh`. My interests lie mostly in the hardware-software interface—low-level software (OS, networking), computer architecture and hardware accelerators. I am also huge supporter of GNU/Linux systems (haven't tried BSDs, so can't comment), Open-Source Software and Open Hardware.
